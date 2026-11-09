@@ -1,10 +1,10 @@
 # Seattle Jobs
 
-Open roles in Seattle: 106 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-08.
+Open roles in Seattle: 100 roles at 35 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-09.
 
-All 106 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
+All 100 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
 
-**By role:** Software Engineering (29) · Hardware Engineering (1) · Data (4) · Product Management (1) · Design (1) · Marketing (9) · Sales (10) · Customer Success (2) · Operations (7) · Finance (4) · HR & Recruiting (6) · Legal & Compliance (6) · Other (26)
+**By role:** Software Engineering (29) · Data (4) · Product Management (1) · Design (1) · Marketing (9) · Sales (8) · Customer Success (2) · Operations (7) · Finance (4) · HR & Recruiting (5) · Legal & Compliance (6) · Other (24)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Seattle. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -44,12 +44,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=seattle) | iOS Engineer, Identity | Seattle, WA; San Francisco, CA; New York City, NY | Oct 26 | [Apply](https://stripe.com/jobs/search?gh_jid=8311082) · [Find the hiring manager](https://warmada.com/job/stripe-ios-engineer-identity-98809e3e-02ae-4857-bb62-eba47c006413?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=seattle) | Android Engineer, Identity | Seattle, WA; San Francisco, CA; New York City, NY | Oct 26 | [Apply](https://stripe.com/jobs/search?gh_jid=8311069) · [Find the hiring manager](https://warmada.com/job/stripe-android-engineer-identity-b45d632a-2357-4dce-8f61-13a0e7078e82?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Hardware Engineering (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [Red Cell Partners](https://warmada.com/companies/red-cell-partners?utm_source=github&utm_medium=list&utm_campaign=seattle) | Director, Production and Infrastructure Engineering | Seattle, WA (Preferred) or Remote (USA) | Oct 26 | [Apply](https://job-boards.greenhouse.io/redcellpartners/jobs/5271180007) · [Find the hiring manager](https://warmada.com/job/red-cell-partners-director-production-and-infrastructure-engineering-6e51bcd9-6165-4a2d-8f5a-ebae7c3c24a4?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-
 ## Data (4)
 
 | Company | Role | Location | Posted | Links |
@@ -85,7 +79,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=seattle) | Product Marketing Manager, Subscriptions | New York, San Francisco, Seattle, Remote | Oct 28 | [Apply](https://stripe.com/jobs/search?gh_jid=8331124) · [Find the hiring manager](https://warmada.com/job/stripe-product-marketing-manager-subscriptions-30075596-656d-43ef-a5d8-01331ea7d95e?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=seattle) | Marketing Strategy &amp; Operations Business Partner | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US | Oct 28 | [Apply](https://stripe.com/jobs/search?gh_jid=8329719) · [Find the hiring manager](https://warmada.com/job/stripe-marketing-strategy-and-operations-business-partner-48bbe329-5f17-4c18-b1d2-7bf497adab4f?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Sales (10)
+## Sales (8)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -97,15 +91,13 @@ A bad listing? Email hello@warmada.com with the link.
 | [horizon3.ai](https://warmada.com/companies/horizon3-ai?utm_source=github&utm_medium=list&utm_campaign=seattle) | Mid-Enterprise Account Executive, Northwest | Seattle, WA | Oct 28 | [Apply](https://jobs.ashbyhq.com/horizon3ai/d6932ce4-24b7-446b-9bfe-284f2826ab19) · [Find the hiring manager](https://warmada.com/job/horizon3-ai-mid-enterprise-account-executive-northwest-890d8b8c-481a-48d4-bd34-3bb652e0966d?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | impact.com | Marketplace Partnership Trust &amp; Safety Manager | Seattle, Victoria, New York | Oct 27 | [Apply](https://job-boards.greenhouse.io/impact/jobs/8885483002) · [Find the hiring manager](https://warmada.com/job/impact-com-marketplace-partnership-trust-and-safety-manager-cda7ba62-b330-46db-9319-f4e3eeac26f7?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Toast](https://warmada.com/companies/toast?utm_source=github&utm_medium=list&utm_campaign=seattle) | Territory Account Executive, Retail -Seattle, WA | Seattle, WA | Oct 27 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8327674) · [Find the hiring manager](https://warmada.com/job/toast-territory-account-executive-retail-seattle-wa-ef30204d-9aae-4ffd-ad27-35868310533e?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Toast](https://warmada.com/companies/toast?utm_source=github&utm_medium=list&utm_campaign=seattle) | Strategic Cuisines Account Executive - Vietnamese | Seattle, WA | Oct 26 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8289167) · [Find the hiring manager](https://warmada.com/job/toast-strategic-cuisines-account-executive-vietnamese-77afa86b-a9a5-4cbd-86ab-4c96a5cf9c10?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Socure](https://warmada.com/companies/socure?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Pre-Sales Solution Consulting, Gaming | Hub - Seattle | Oct 26 | [Apply](https://jobs.ashbyhq.com/socure/4aba09cb-32f2-4a45-8815-88515f9711af) · [Find the hiring manager](https://warmada.com/job/socure-senior-pre-sales-solution-consulting-gaming-18ad8ccf-e811-4d65-bf69-7b46665a5d6a?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
 ## Customer Success (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | read.ai | Director of Customer Success | Read AI - Seattle HQ | Nov 6 | [Apply](https://jobs.ashbyhq.com/read-ai/6298d380-2985-40e6-b6e9-fda31d8aaa77) · [Find the hiring manager](https://warmada.com/job/read-ai-director-of-customer-success-aeabc64e-4b42-4648-ab8b-8370ab22291b?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| pearlhealth.com | Customer Success Manager | Seattle, Los Angeles, San Francisco or Remote | Oct 27 | [Apply](https://jobs.ashbyhq.com/pearlhealth/4766bfe2-a1bd-496b-b19e-3aa6fc5fd57c) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-customer-success-manager-cb816e4d-1581-49bc-a65e-bbbeed253083?utm_source=github&utm_medium=list&utm_campaign=seattle) |
+| [pearlhealth.com](https://warmada.com/companies/pearlhealth-com?utm_source=github&utm_medium=list&utm_campaign=seattle) | Customer Success Manager | Seattle, Los Angeles, San Francisco or Remote | Oct 27 | [Apply](https://jobs.ashbyhq.com/pearlhealth/4766bfe2-a1bd-496b-b19e-3aa6fc5fd57c) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-customer-success-manager-cb816e4d-1581-49bc-a65e-bbbeed253083?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
 ## Operations (7)
 
@@ -128,7 +120,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Twitch](https://warmada.com/companies/twitch?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Financial Analyst, AI Transformation | Seattle, WA | Nov 4 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931183002) · [Find the hiring manager](https://warmada.com/job/twitch-senior-financial-analyst-ai-transformation-a9026795-28c9-4ab8-b202-73cf51927a72?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Lyft](https://warmada.com/companies/lyft?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Payroll Accountant | Seattle, WA | Oct 28 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8921758002?gh_jid=8921758002) · [Find the hiring manager](https://warmada.com/job/lyft-senior-payroll-accountant-c6377bfc-c2a6-484e-8d29-4dd86fd91901?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## HR & Recruiting (6)
+## HR & Recruiting (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -137,7 +129,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [hiya.com](https://warmada.com/companies/hiya-com?utm_source=github&utm_medium=list&utm_campaign=seattle) | Talent Acquisition Partner (Contract) | Seattle, US | Oct 30 | [Apply](https://jobs.ashbyhq.com/hiya/ca5fc79f-0105-4dca-93db-973077a2e639) · [Find the hiring manager](https://warmada.com/job/hiya-com-talent-acquisition-partner-contract-538af32b-88ef-430c-b998-44b2760355cb?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Performance &amp; Talent Programs Manager | New York City, NY; San Francisco, CA \| New York City, NY; Seattle, WA | Oct 29 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5465578008) · [Find the hiring manager](https://warmada.com/job/anthropic-performance-and-talent-programs-manager-09b0d680-d898-4a3f-9320-5f05ad6fb798?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | possiblefinance.com | Recruiting Coordinator | Seattle, WA | Oct 28 | [Apply](https://jobs.ashbyhq.com/possible-finance/56c82789-8957-4eb7-a478-1c777c944e8b) · [Find the hiring manager](https://warmada.com/job/possiblefinance-com-recruiting-coordinator-a9d47086-d439-4f4a-90bd-fdc9a79ed2e2?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=seattle) | Talent Acquisition Intern | Chicago, Illinois, United States; Denver, Colorado, United States; Minneapolis, Minnesota, United States; Seattle, Washington, United States | Oct 26 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5463666008) · [Find the hiring manager](https://warmada.com/job/dlr-group-talent-acquisition-intern-e608ff8f-d18e-4010-b408-2b389b45bc86?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
 ## Legal & Compliance (6)
 
@@ -150,7 +141,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=seattle) | Lead Counsel, Strategic Alliances | Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington | Oct 29 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8922115002) · [Find the hiring manager](https://warmada.com/job/databricks-lead-counsel-strategic-alliances-8a875d26-a42f-464e-9657-5e5a0d96378c?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=seattle) | Sr. Counsel, Product | Bellevue, Washington; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | Oct 28 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8922118002) · [Find the hiring manager](https://warmada.com/job/databricks-sr-counsel-product-62750b94-3230-4862-b1e9-4dc2c534ca02?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Other (26)
+## Other (24)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -172,11 +163,9 @@ A bad listing? Email hello@warmada.com with the link.
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=seattle) | Service Concierge, Seattle | Seattle, WA | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5282112007?gh_jid=5282112007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-service-concierge-seattle-a3f33611-9caa-4981-b040-90bced4147a2?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | AI Outcomes Manager, Strategic Tech (Spanish-speaking) | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | Nov 2 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5465639008) · [Find the hiring manager](https://warmada.com/job/anthropic-ai-outcomes-manager-strategic-tech-spanish-speaking-03bec5af-0ae2-41af-a9d7-3557b3b61f07?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Pinterest](https://warmada.com/companies/pinterest?utm_source=github&utm_medium=list&utm_campaign=seattle) | Sr. Staff Qualitative Product Researcher, Ads | Seattle, WA, USA; Remote, US | Oct 30 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8247874) · [Find the hiring manager](https://warmada.com/job/pinterest-sr-staff-qualitative-product-researcher-ads-b0ac11e6-d0c6-4805-8829-e18fbba32b22?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| pearlhealth.com | Director, Clinical Performance | Seattle, New York City, Boston, or Remote | Oct 30 | [Apply](https://jobs.ashbyhq.com/pearlhealth/2ead26c9-a7ed-43e8-9e69-24913b7bf664) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-director-clinical-performance-7d42c1f9-fce6-4eec-a780-2f30a0db2ab0?utm_source=github&utm_medium=list&utm_campaign=seattle) |
+| [pearlhealth.com](https://warmada.com/companies/pearlhealth-com?utm_source=github&utm_medium=list&utm_campaign=seattle) | Director, Clinical Performance | Seattle, New York City, Boston, or Remote | Oct 30 | [Apply](https://jobs.ashbyhq.com/pearlhealth/2ead26c9-a7ed-43e8-9e69-24913b7bf664) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-director-clinical-performance-7d42c1f9-fce6-4eec-a780-2f30a0db2ab0?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Mejuri](https://warmada.com/companies/mejuri?utm_source=github&utm_medium=list&utm_campaign=seattle) | Seasonal Stylist (Retail) (Part-time) | Bellevue Square, Seattle | Oct 29 | [Apply](https://job-boards.greenhouse.io/mejuri/jobs/4725916006) · [Find the hiring manager](https://warmada.com/job/mejuri-seasonal-stylist-retail-part-time-30b7ccbb-4718-4c9c-91c4-18d97686b1fa?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Director, Order-to-Cash Assurance | San Francisco, CA \| Seattle, WA | Oct 29 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5451912008) · [Find the hiring manager](https://warmada.com/job/anthropic-director-order-to-cash-assurance-db445c7d-8971-4b41-8c84-93a32dbd640b?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [finnihealth.com](https://warmada.com/companies/finnihealth-com?utm_source=github&utm_medium=list&utm_campaign=seattle) | Behavior Technician (BT/CBT)- Seattle, WA | Seattle, Washington | Oct 27 | [Apply](https://jobs.ashbyhq.com/finni-health/85295a56-6cd9-4427-8388-554a4be1704b) · [Find the hiring manager](https://warmada.com/job/finnihealth-com-behavior-technician-bt-cbt-seattle-wa-929b077b-71e1-4c63-a627-eba08d0638b8?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Blink Health](https://warmada.com/companies/blink-health?utm_source=github&utm_medium=list&utm_campaign=seattle) | Principal Network Engineer | New York, NY; Pittsburgh, PA; Seattle, WA | Oct 27 | [Apply](https://job-boards.greenhouse.io/blinkhealth/jobs/8891450002) · [Find the hiring manager](https://warmada.com/job/blink-health-principal-network-engineer-72f80660-1793-4739-9d35-cdffb4d6c955?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=seattle) | Part Time Brand Ambassador | Seattle, WA | Oct 26 | [Apply](https://lucidmotors.com/careers/search/5275781007?gh_jid=5275781007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-part-time-brand-ambassador-078252bf-99bf-418f-b764-064d510afed0?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [rothys.com](https://warmada.com/companies/rothys-com?utm_source=github&utm_medium=list&utm_campaign=seattle) | Assistant Store Manager - University Village | Seattle, WA | Oct 26 | [Apply](https://jobs.ashbyhq.com/Rothys/59bfce1d-5ffd-4338-a7eb-ac455906f8db) · [Find the hiring manager](https://warmada.com/job/rothys-com-assistant-store-manager-university-village-204a7165-1a35-427d-9d8c-eadb0975d2da?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Executive Assistant | Seattle, USA | Oct 26 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8302715) · [Find the hiring manager](https://warmada.com/job/coupang-senior-executive-assistant-d5a9cde6-55ca-4457-8cb9-aa136fb3691d?utm_source=github&utm_medium=list&utm_campaign=seattle) |
