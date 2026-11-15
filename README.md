@@ -1,19 +1,20 @@
 # Seattle Jobs
 
-Open roles in Seattle: 94 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-14.
+Open roles in Seattle: 95 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-15.
 
-All 94 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
+All 95 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
 
-**By role:** Software Engineering (30) · Data (2) · Product Management (4) · Marketing (3) · Sales (10) · Customer Success (2) · Operations (7) · Finance (4) · HR & Recruiting (5) · Legal & Compliance (3) · Other (24)
+**By role:** Software Engineering (31) · Data (2) · Product Management (4) · Marketing (3) · Sales (10) · Customer Success (2) · Operations (7) · Finance (4) · HR & Recruiting (5) · Legal & Compliance (3) · Other (24)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Seattle. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (30)
+## Software Engineering (31)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Engineering Manager, Billing Platform | San Francisco, CA \| New York City, NY \| Seattle, WA | Nov 14 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5469291008) · [Find the hiring manager](https://warmada.com/job/anthropic-engineering-manager-billing-platform-ad7ce571-cdf6-4262-804d-b4a03a80c6b4?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=seattle) | Director of Backend Engineering | Seattle, USA | Nov 13 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8386063) · [Find the hiring manager](https://warmada.com/job/coupang-director-of-backend-engineering-86cdcb43-91db-4299-9a10-22273381bb93?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff Software Engineer, Internal Products | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Nov 13 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5481096008) · [Find the hiring manager](https://warmada.com/job/anthropic-staff-software-engineer-internal-products-5b630ebe-cf28-4339-922b-9aff44a6a734?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff AI Engineer | Seattle, USA | Nov 12 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8351526) · [Find the hiring manager](https://warmada.com/job/coupang-staff-ai-engineer-66a8fa75-0e58-4055-839e-91a6931c0937?utm_source=github&utm_medium=list&utm_campaign=seattle) |
