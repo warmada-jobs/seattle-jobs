@@ -1,16 +1,16 @@
 # Seattle Jobs
 
-Open roles in Seattle: 95 roles at 32 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-15.
+Open roles in Seattle: 91 roles at 30 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-16.
 
-All 95 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
+All 91 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
 
-**By role:** Software Engineering (31) · Data (2) · Product Management (4) · Marketing (3) · Sales (10) · Customer Success (2) · Operations (7) · Finance (4) · HR & Recruiting (5) · Legal & Compliance (3) · Other (24)
+**By role:** Software Engineering (29) · Data (2) · Product Management (4) · Marketing (3) · Sales (10) · Customer Success (2) · Operations (7) · Finance (4) · HR & Recruiting (5) · Legal & Compliance (2) · Other (23)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Seattle. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (31)
+## Software Engineering (29)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -43,8 +43,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=seattle) | Software Engineer II - Reporting Platform | Seattle, Washington, United States | Nov 4 | [Apply](https://www.qualtrics.com/careers/us/en/job/8346858?gh_jid=8346858) · [Find the hiring manager](https://warmada.com/job/qualtrics-software-engineer-ii-reporting-platform-2fad035d-a1a7-482d-8250-85497a3dac60?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Samsara](https://warmada.com/companies/samsara?utm_source=github&utm_medium=list&utm_campaign=seattle) | Sr. Software Engineer I | Remote - Seattle | Nov 3 | [Apply](https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175) · [Find the hiring manager](https://warmada.com/job/samsara-sr-software-engineer-i-71baca84-22ef-4887-9b17-ed86049d82c5?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Red Cell Partners](https://warmada.com/companies/red-cell-partners?utm_source=github&utm_medium=list&utm_campaign=seattle) | Forward Deployed Engineer | Seattle, WA (Preferred) or McLean, VA or Remote (USA) | Nov 3 | [Apply](https://job-boards.greenhouse.io/redcellpartners/jobs/5280394007) · [Find the hiring manager](https://warmada.com/job/red-cell-partners-forward-deployed-engineer-8d4967b5-e037-46f4-93ed-25e9a8856801?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| impact.com | Senior Software Engineer | Seattle, WA | Nov 2 | [Apply](https://job-boards.greenhouse.io/impact/jobs/8895031002) · [Find the hiring manager](https://warmada.com/job/impact-com-senior-software-engineer-3f53878b-af00-4a2b-9059-5f857ac65ca1?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Research Engineer / Scientist, Pre-training | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Nov 2 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5468947008) · [Find the hiring manager](https://warmada.com/job/anthropic-research-engineer-scientist-pre-training-5862cbfa-e16e-441a-9825-c978fb05f515?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
 ## Data (2)
 
@@ -123,15 +121,14 @@ A bad listing? Email hello@warmada.com with the link.
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff People Partner, Corporate Functions | Mountain View, California; San Francisco, California; Seattle, Washington | Nov 4 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8869088002) · [Find the hiring manager](https://warmada.com/job/databricks-staff-people-partner-corporate-functions-e9ea3967-7752-4135-ac66-908ff78c3c33?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Brex](https://warmada.com/companies/brex?utm_source=github&utm_medium=list&utm_campaign=seattle) | Business Recruiter | Seattle, Washington, United States | Nov 3 | [Apply](https://www.brex.com/careers/8928177002?gh_jid=8928177002) · [Find the hiring manager](https://warmada.com/job/brex-business-recruiter-2cb57392-a326-4fce-8b51-bb8584c06a78?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Legal & Compliance (3)
+## Legal & Compliance (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Security Risk &amp; Compliance, SOX IT | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | Nov 10 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5477464008) · [Find the hiring manager](https://warmada.com/job/anthropic-security-risk-and-compliance-sox-it-48812107-e635-428b-a34f-b09f69cb426d?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | People Services Partner, Compliance | San Francisco, CA \| New York City, NY \| Seattle, WA | Nov 3 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5461871008) · [Find the hiring manager](https://warmada.com/job/anthropic-people-services-partner-compliance-e1cc8a2f-8862-43d0-b5bb-ed9dbef6ff93?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| HackerOne | Senior Counsel, Employment &amp; Compliance | Seattle | Nov 2 | [Apply](https://jobs.ashbyhq.com/hackerone/2972537a-578e-4f0e-b6e9-0f54762b261e) · [Find the hiring manager](https://warmada.com/job/hackerone-senior-counsel-employment-and-compliance-fc74f64c-1793-4a3f-bec6-c6a0fb0074ea?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Other (24)
+## Other (23)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -158,4 +155,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=seattle) | Service Assistant, Seattle | Seattle, WA | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5279148007?gh_jid=5279148007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-service-assistant-seattle-c30bcbec-e6f2-4d49-bcbf-f8f93f5bb4aa?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=seattle) | Assistant Service Manager, Seattle | Seattle, WA | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5282234007?gh_jid=5282234007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-assistant-service-manager-seattle-66b91441-accb-43d4-aed0-58efe272881f?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=seattle) | Service Concierge, Seattle | Seattle, WA | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5282112007?gh_jid=5282112007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-service-concierge-seattle-a3f33611-9caa-4981-b040-90bced4147a2?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | AI Outcomes Manager, Strategic Tech (Spanish-speaking) | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | Nov 2 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5465639008) · [Find the hiring manager](https://warmada.com/job/anthropic-ai-outcomes-manager-strategic-tech-spanish-speaking-03bec5af-0ae2-41af-a9d7-3557b3b61f07?utm_source=github&utm_medium=list&utm_campaign=seattle) |
