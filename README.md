@@ -1,19 +1,20 @@
 # Seattle Jobs
 
-Open roles in Seattle: 85 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-22.
+Open roles in Seattle: 82 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=seattle).** Last updated 2026-11-23.
 
-All 85 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
+All 82 are listed below. Browse the newest on [warmada.com/jobs/seattle](https://warmada.com/jobs/seattle?utm_source=github&utm_medium=list&utm_campaign=seattle).
 
-**By role:** Software Engineering (34) · Data (1) · Product Management (5) · Design (1) · Marketing (4) · Sales (9) · Customer Success (3) · Operations (7) · Finance (1) · HR & Recruiting (3) · Legal & Compliance (2) · Other (15)
+**By role:** Software Engineering (31) · Data (1) · Product Management (5) · Design (1) · Marketing (4) · Sales (9) · Customer Success (3) · Operations (6) · Finance (1) · HR & Recruiting (3) · Legal & Compliance (2) · Other (16)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Seattle. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (34)
+## Software Engineering (31)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=seattle) | Site Reliability Engineer | Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | Nov 23 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8394537) · [Find the hiring manager](https://warmada.com/job/gusto-site-reliability-engineer-3c5e7320-a187-4f08-811d-31dc7ad976d6?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Research Engineer, Finetuning | San Francisco, CA \| New York City, NY \| Seattle, WA | Nov 21 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5489567008) · [Find the hiring manager](https://warmada.com/job/anthropic-research-engineer-finetuning-5fed402b-4796-4fbe-b558-76dad154dc83?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff Software Engineer | Seattle, USA | Nov 21 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8376965) · [Find the hiring manager](https://warmada.com/job/coupang-staff-software-engineer-5c6bec8d-b2cc-44ab-98cf-c8305a0765ab?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff+ Software Engineer, Capacity Engineering | San Francisco, CA \| New York City, NY \| Seattle, WA | Nov 20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5490979008) · [Find the hiring manager](https://warmada.com/job/anthropic-staff-software-engineer-capacity-engineering-e39d8c72-e239-408b-9158-5e98e951a72f?utm_source=github&utm_medium=list&utm_campaign=seattle) |
@@ -44,10 +45,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=seattle) | Machine Learning Engineer, Transaction Risk | Seattle, New York City | Nov 10 | [Apply](https://stripe.com/jobs/search?gh_jid=8187574) · [Find the hiring manager](https://warmada.com/job/stripe-machine-learning-engineer-transaction-risk-9b0ee3e5-e7a6-4067-8440-9288455bbb45?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=seattle) | Director, Back-end Engineering | Mountain View, USA; Seattle, USA | Nov 9 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8364554) · [Find the hiring manager](https://warmada.com/job/coupang-director-back-end-engineering-23212e7a-289b-4ec4-82f0-bb03314f6350?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Pinterest](https://warmada.com/companies/pinterest?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff Software Engineer | San Francisco, CA, US; Los Angeles, CA, US; Seattle, WA, US; New York, NY, US | Nov 9 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8262940) · [Find the hiring manager](https://warmada.com/job/pinterest-staff-software-engineer-69a6c4f3-996b-452d-a239-173c5320be0b?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=seattle) | Software Engineer, Financial Data &amp; Payments | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | Nov 9 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8360497) · [Find the hiring manager](https://warmada.com/job/gusto-software-engineer-financial-data-and-payments-87ddebcc-cef4-4db1-8309-2cc4c7b393a3?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Staff+ Software Engineer, Safeguards Evals | New York City, NY; San Francisco, CA; Seattle, WA | Nov 9 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5477379008) · [Find the hiring manager](https://warmada.com/job/anthropic-staff-software-engineer-safeguards-evals-6838eba4-0911-46b1-a73b-01e8997da545?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Lyft](https://warmada.com/companies/lyft?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Software Engineer, Forecasting &amp; Real-Time Optimization | Seattle, WA | Nov 9 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002) · [Find the hiring manager](https://warmada.com/job/lyft-senior-software-engineer-forecasting-and-real-time-optimization-5bdf295a-3d5f-4e85-8db0-70eb8bb32c42?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [SoFi](https://warmada.com/companies/sofi?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Staff AI Enablement Engineer | WA - Seattle; CA - San Francisco | Nov 9 | [Apply](https://sofi.com/careers/job/8196294003?gh_jid=8196294003) · [Find the hiring manager](https://warmada.com/job/sofi-senior-staff-ai-enablement-engineer-39a9bf1b-2739-4b24-8cbe-550935874a03?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
 ## Data (1)
 
@@ -102,7 +99,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Samsara](https://warmada.com/companies/samsara?utm_source=github&utm_medium=list&utm_campaign=seattle) | Implementation Consultant | Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX | Nov 19 | [Apply](https://www.samsara.com/company/careers/roles/8367418?gh_jid=8367418) · [Find the hiring manager](https://warmada.com/job/samsara-implementation-consultant-1ef1b0a5-2133-4b0e-a04e-4b48bd7b6682?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | Hiya | Strategic Customer Success Manager | Seattle, US | Nov 11 | [Apply](https://jobs.ashbyhq.com/hiya/d79bac45-76c0-45b2-8989-f2711fdb59de) · [Find the hiring manager](https://warmada.com/job/hiya-strategic-customer-success-manager-40a42700-a195-4464-b5c4-9aaef57f80b6?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Operations (7)
+## Operations (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -112,7 +109,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [CookUnity](https://warmada.com/companies/cookunity?utm_source=github&utm_medium=list&utm_campaign=seattle) | Operations Manager | Seattle, Washington, United States | Nov 13 | [Apply](https://careers.cookunity.com/open-roles?gh_jid=8203998003) · [Find the hiring manager](https://warmada.com/job/cookunity-operations-manager-891bc2db-a16a-40fb-9f18-8c719a0c322f?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | HackerOne | Business Operations Director | Seattle | Nov 13 | [Apply](https://jobs.ashbyhq.com/hackerone/a105ffa8-5c50-4976-a51a-8a3ff64738ee) · [Find the hiring manager](https://warmada.com/job/hackerone-business-operations-director-f6c37ec7-af18-4c62-a29b-eeb0614300cd?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | JFrog | Technical Program Manager (Contractor) | Atlanta, Sunnyvale, Seattle, New York City | Nov 11 | [Apply](https://join.jfrog.com/job/?job=8241728&gh_jid=8241728) · [Find the hiring manager](https://warmada.com/job/jfrog-technical-program-manager-contractor-dfff5528-4ee3-4a55-ab4b-37fb313460d1?utm_source=github&utm_medium=list&utm_campaign=seattle) |
-| [Coupang](https://warmada.com/companies/coupang?utm_source=github&utm_medium=list&utm_campaign=seattle) | Senior Manager, Tax Operations &amp; Reporting | Seattle, USA | Nov 9 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8354908) · [Find the hiring manager](https://warmada.com/job/coupang-senior-manager-tax-operations-and-reporting-902b56ab-7c48-4cf1-96cb-6c2483896ac0?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
 ## Finance (1)
 
@@ -135,10 +131,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Commercial Counsel, GTM Strategic Alliances | San Francisco, CA \| New York City, NY \| Seattle, WA | Nov 20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5490950008) · [Find the hiring manager](https://warmada.com/job/anthropic-commercial-counsel-gtm-strategic-alliances-785406a6-c2e2-404a-bc93-e2dafefda250?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=seattle) | Security Risk &amp; Compliance, SOX IT | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | Nov 10 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5477464008) · [Find the hiring manager](https://warmada.com/job/anthropic-security-risk-and-compliance-sox-it-48812107-e635-428b-a34f-b09f69cb426d?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 
-## Other (15)
+## Other (16)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=seattle) | District CDL Delivery Driver | Seattle, WA | Nov 22 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8331183) · [Find the hiring manager](https://warmada.com/job/equipmentshare-district-cdl-delivery-driver-3083b158-4aaf-4efe-b3ad-2d5562e5acd9?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [New Engen, Inc.](https://warmada.com/companies/new-engen-inc?utm_source=github&utm_medium=list&utm_campaign=seattle) | Manager, Paid Social | Seattle, WA &amp; NYC | Nov 20 | [Apply](https://job-boards.greenhouse.io/newengeninc/jobs/4517706009) · [Find the hiring manager](https://warmada.com/job/new-engen-inc-manager-paid-social-f55676cf-8bb1-4951-9de9-bd4ae0b7eb47?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | Adaptive Biotechnologies | Scientist II, Validation | Seattle | Nov 20 | [Apply](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8949158002) · [Find the hiring manager](https://warmada.com/job/adaptive-biotechnologies-scientist-ii-validation-d4334820-3034-42b2-ad01-2f7efe1c6498?utm_source=github&utm_medium=list&utm_campaign=seattle) |
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=seattle) | Analyst, Research Manager | Seattle, Washington, United States | Nov 20 | [Apply](https://www.qualtrics.com/careers/us/en/job/8401100?gh_jid=8401100) · [Find the hiring manager](https://warmada.com/job/qualtrics-analyst-research-manager-2a1f2f2b-6c40-4aea-a1f9-de44b3d54d98?utm_source=github&utm_medium=list&utm_campaign=seattle) |
